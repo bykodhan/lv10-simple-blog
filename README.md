@@ -1,11 +1,10 @@
 ## Kurulum
 + En az PHP 8.1 sürümü gereklidir. 
-+ Laravel Yüklü olması gereklidir.
++ Laravel yüklü olması gereklidir.
 + Veritabanı oluşturuyoruz.
 + "database.sql" dosyayı oluşturduğunuz veritabanın içine aktarın (import) [CPanel için örnek import](https://www.youtube.com/watch?v=PGG70alsSLo).
 + ".env" dosyasını açıp veritabanı bilgilerimizi kendi bilgilerimizle değiştiriyoruz.
 + Terminal kullanarak proje dizinimize giriyoruz.
-+ "composer install" komutu ile gerekli php paketlerini vendor klasörüne yükletiyoruz.
 + "php artisan serve" diyerek projeyi ayağa kaldırıyoruz.
 + Admin Demo Kullanıcı Bilgileri:
 + "admin@admin.com":"adminadmin"
